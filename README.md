@@ -4,6 +4,16 @@ This repository hosts the userscripts I'll be writting. These are little pieces 
 
 This README file has been borrowed from [@soyguijarro](https://github.com/soyguijarro/). Check out his cool [userscripts](https://github.com/soyguijarro/userscripts)!
 
+## List of userscripts
+
+### [DLE](http://dle.rae.es/) (former DRAE) Clean UI
+
+![DLE Clean UI in action](img/dle_clean_ui_screenshot.png)
+
+Injects some CSS to adjust sizes or remove visual elements to RAE's online Spanish dictionary. Having a cleaner and less distraction-prone design makes you focus on real content.  
+Responsive design has been taken into account, but may present casual disarrangements. Please fill an [issue](https://github.com/Roboe/userscripts/issues) if you experiment trouble.
+
+
 ## Installation
 
 1. If you don't have a user script manager, install one first. For Mozilla Firefox, get [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/). For Google Chrome, [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) is the one you need. For other browsers, check [this page](http://wiki.greasespot.net/Cross-browser_userscripting).
