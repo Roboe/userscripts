@@ -11,7 +11,7 @@ This README file has been borrowed from [@soyguijarro](https://github.com/soygui
 ![DLE Clean UI in action](img/dle_clean_ui_screenshot.png)
 
 Injects some CSS to adjust sizes or remove visual elements to RAE's online Spanish dictionary. Having a cleaner and less distraction-prone design makes you focus on real content.  
-Responsive design has been taken into account, but may present casual disarrangements. Please fill an [issue](https://github.com/Roboe/userscripts/issues) if you experiment trouble.
+Responsive design has been taken into account, but may present casual disarrangements. Please fill an [issue](https://gitlab.com/Roboe/userscripts/issues) if you experiment trouble.
 
 
 ## Installation
@@ -25,7 +25,7 @@ Responsive design has been taken into account, but may present casual disarrange
 
 ## Compatibility
 
-These scripts have been tested with [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) on Mozilla Firefox and [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) on Google Chrome/ium, but they should work with pretty much any user script manager. If you find something not working properly, please [report the issue](https://github.com/roboe/userscripts/issues).
+These scripts have been tested with [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) on Mozilla Firefox and [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) on Google Chrome/ium, but they should work with pretty much any user script manager. If you find something not working properly, please [report the issue](https://gitlab.com/Roboe/userscripts/issues).
 
 
 ## License
