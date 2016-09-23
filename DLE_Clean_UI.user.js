@@ -10,23 +10,11 @@
 // @license     GPLv3; http://www.gnu.org/licenses/gpl.html
 // @version     1.0
 // @include     http://dle.rae.es/*
-// @grant       none
+// @grant       GM_addStyle
 // ==/UserScript==
 
-function addGlobalStyle(css) {
-  var head;
-  var style;
-  head = document.getElementsByTagName('head')[0];
-
-  if (!head) { return; }
-  style = document.createElement('style');
-  style.type = 'text/css';
-  style.innerHTML = css;
-  head.appendChild(style);
-}
-
 window.addEventListener('DOMContentLoaded', function() {
-  addGlobalStyle('/* Injected by userscript */\
+  GM_addStyle('/* Injected by userscript */\
   #idle { height: 50px; }\
   #drea23 { padding-top: 1.4em; }\
   #irae { margin: 1.2em 0 0 1em; height: unset; width: unset; }\
