@@ -56,6 +56,14 @@ body.dle #main {
     width: unset;
 }
 
+.dicc {
+    display: none;
+}
+
+#patrocinio {
+    display: none;
+}
+
 #informa {
     display: none;
 }
