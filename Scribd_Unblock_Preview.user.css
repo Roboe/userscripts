@@ -1,0 +1,14 @@
+/* Injected by userscript */
+
+.page_blur_promo,
+.page_missing_explanation {
+  display: none !important;
+}
+
+.newpage img {
+  opacity: 1 !important;
+}
+.newpage .text_layer span.a {
+  color: initial !important;
+  text-shadow: initial !important;
+}
