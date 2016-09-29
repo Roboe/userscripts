@@ -15,9 +15,9 @@ Responsive design has been taken into account, but may present casual disarrange
 
 ### [Scribd](https://www.scribd.com/) Document Preview Unblocker
 
-Injects some CSS to unblock the clumsy protection Scribd puts for documents in their website. Choose whether you want to join their private garden paying for content uploaded by volunteers or just read the previews that are already being downloaded to your browser.
-
 ![Scribd Preview Unblocker in action](img/scribd_unblock_preview_screenshot.png)
+
+Injects some CSS to unblock the clumsy protection Scribd puts for documents in their website. Choose whether you want to join their private garden paying for content uploaded by volunteers or just read the previews that are already being downloaded to your browser.
 
 
 ## Installation
