@@ -45,7 +45,8 @@ function addPageToPdf(doc, imageDataUri, isFirstPage) {
 
 // State
 const [totalPages] = document.querySelector('span.total_pages').textContent.match(/\d+/);
-console.log(totalPages);
+const [, documentTitle] = window.location.pathname.match(/\/doc(?:ument)?\/\d+\/(.+)/);
+console.log(documentTitle, totalPages);
 
 const pdfDocument = createNewPdf();
 
@@ -72,5 +73,5 @@ Promise.all(promiseChain)
     return true;
   })
   .then(() => {
-    pdfDocument.save(`${document.querySelector('title').textContent}.pdf`);
+    pdfDocument.save(`${documentTitle}.pdf`);
   });
