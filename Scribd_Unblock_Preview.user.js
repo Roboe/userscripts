@@ -6,9 +6,9 @@
 // @homepageURL https://gitlab.com/Roboe/userscripts
 // @supportURL  https://gitlab.com/Roboe/userscripts/issues
 // @updateURL   https://gitlab.com/Roboe/userscripts/raw/master/Scribd_Unblock_Preview.user.js
-// @icon        https://gitlab.com/Roboe/userscripts/raw/master/img/scribd_icon.jpg
+// @icon        img/scribd_icon.png
 // @license     GPLv3; http://www.gnu.org/licenses/gpl.html
-// @version     1.0
+// @version     1.0.1
 // @match       https://*.scribd.com/doc/*/*
 // @match       https://*.scribd.com/document/*/*
 // @run-at      document-end
