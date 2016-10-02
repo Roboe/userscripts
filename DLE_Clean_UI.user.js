@@ -6,7 +6,7 @@
 // @homepageURL https://gitlab.com/Roboe/userscripts
 // @supportURL  https://gitlab.com/Roboe/userscripts/issues
 // @updateURL   https://gitlab.com/Roboe/userscripts/raw/master/DLE_Clean_UI.user.js
-// @icon        https://gitlab.com/Roboe/userscripts/raw/master/img/dle_icon.jpg
+// @icon        img/dle_icon.jpg
 // @license     GPLv3; http://www.gnu.org/licenses/gpl.html
 // @version     1.2
 // @include     http://dle.rae.es/*
