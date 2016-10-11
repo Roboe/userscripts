@@ -6,7 +6,7 @@
 // @homepageURL https://gitlab.com/Roboe/userscripts
 // @supportURL  https://gitlab.com/Roboe/userscripts/issues
 // @updateURL   https://gitlab.com/Roboe/userscripts/raw/master/WA_Dark_UI.user.js
-// @icon        img/wa_icon.jpg
+// @icon        img/wa_icon.png
 // @license     GPLv3; http://www.gnu.org/licenses/gpl.html
 // @version     1.0
 // @match       https://web.whatsapp.com/*
