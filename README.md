@@ -19,6 +19,11 @@ Responsive design has been taken into account, but may present casual disarrange
 
 Injects some CSS to unblock the clumsy protection Scribd puts for documents in their website. Choose whether you want to join their private garden paying for content uploaded by volunteers or just read the previews that are already being downloaded to your browser.
 
+### [IMSLP](https://imslp.org/) Subscription Page Skipper
+
+![IMSLP Subscription Page](img/imslp_subscription_page_skipper_screenshot.png)
+
+Redirects you to the requested download without waiting for 15 seconds. You can still visit the [subscription page](https://imslp.org/wiki/IMSLP:Subscriptions) to support the IMSLP project economically or explore [other ways to contribute](https://imslp.org/wiki/IMSLP:Contributor_Portal) (most of them don't require money!).
 
 ## Installation
 
