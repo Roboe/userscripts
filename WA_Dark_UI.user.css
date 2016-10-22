@@ -257,9 +257,13 @@ header.pane-chat-header {
 
 /* Chat bubble */
 
-/* Hide the tail since its just an image */
-.message-out>.tail-container, .message-in>.tail-container {
-  display: none;
+
+.message-in .tail-container {
+  filter: grayscale(100%) brightness(0.4);
+}
+
+.message-out .tail-container {
+  filter: grayscale(100%) brightness(0.29);
 }
 
 .message-in, .context-in {
