@@ -72,7 +72,7 @@
 }
 
 .message-datetime {
-  -webkit-filter: invert(0%);
+  filter: grayscale(100%);
 }
 
 /* Checkboxes */
