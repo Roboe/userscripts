@@ -290,6 +290,13 @@ header.pane-chat-header {
 }
 
 
+/* Quoted message over compose panel */
+
+.compose-popup-panel, .compose-popup-panel .btn-background {
+    background: #414141 !important
+}
+
+
 /* Remove background from down arrow */
 
 .message .btn-context, .message .btn-context:after {
