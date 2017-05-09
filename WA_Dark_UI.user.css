@@ -220,6 +220,10 @@ header.drawer-header-small {
   color: #d64937;
 }
 
+.message-text strong {
+  color: inherit !important;
+}
+
 
 /* Texts */
 
