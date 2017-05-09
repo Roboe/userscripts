@@ -8,7 +8,7 @@
 // @updateURL   https://gitlab.com/Roboe/userscripts/raw/master/WA_Dark_UI.user.js
 // @icon        img/wa_icon.png
 // @license     GPLv3; http://www.gnu.org/licenses/gpl.html
-// @version     1.2
+// @version     1.3
 // @match       https://web.whatsapp.com/*
 // @run-at      document-end
 // @grant       GM_addStyle
