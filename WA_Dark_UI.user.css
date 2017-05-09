@@ -403,6 +403,13 @@ li .ellipsify:hover {
 }
 
 
+/* Chat FAB (floating action button) */
+
+.incoming-msgs {
+  color: #D64937 !important;
+}
+
+
 /* NO BORDERS! */
 
 * {
