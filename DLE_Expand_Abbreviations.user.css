@@ -1,0 +1,16 @@
+#resultados abbr {
+  font-size: 0;
+  text-decoration: unset;
+  cursor: unset;
+}
+
+#resultados abbr::after {
+  content: attr(title);
+  font-size: initial;
+}
+
+
+#resultados abbr + abbr::before {
+  content: "· ";
+  font-size: initial;
+}
