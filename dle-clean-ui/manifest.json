@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+
+  "applications": {
+    "gecko": {
+      "id": "dle-clean-ui@virgulilla.com"
+    }
+  },
+
+  "name": "Interfaz simple para el DLE (antes DRAE)",
+  "version": "2.0",
+
+  "author": "Roberto M. F.",
+  "homepage_url": "https://gitlab.com/Roboe/userscripts",
+  "description": "Ajusta y oculta elementos en la web del Diccionario de la Lengua Española (antes diccionario de la RAE) para una experiencia de diccionario sin distracciones",
+  "icons": {
+    "48": "icon.jpg",
+    "96": "icon@2x.jpg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://dle.rae.es/*"],
+      "css": ["style.user.css"]
+    }
+  ]
+}
