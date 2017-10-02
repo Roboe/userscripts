@@ -6,12 +6,20 @@ This README file has been borrowed from [@soyguijarro](https://github.com/soygui
 
 ## List of userscripts
 
-### [DLE](http://dle.rae.es/) (former DRAE) Clean UI
+### [DLE](http://dle.rae.es/) (former DRAE)
+
+#### DLE (former DRAE) Clean UI
 
 ![DLE Clean UI in action](img/dle_clean_ui_screenshot.png)
 
 Injects some CSS to adjust sizes or remove visual elements to RAE's online Spanish dictionary. Having a cleaner and less distraction-prone design makes you focus on real content.  
 Responsive design has been taken into account, but may present casual disarrangements. Please fill an [issue](https://gitlab.com/Roboe/userscripts/issues) if you experiment trouble.
+
+#### DLE (former DRAE) Expand Abbreviations
+
+![DLE Abbreviations Expander](img/dle_expand_abbreviations_screenshot.png)
+
+Injects some CSS to expand abbreviations and show full terms. Abbreviations are proper of paper dictionaries, and have no sense in digital content. Not having to decrypt random things makes definitions clearer.
 
 ### [Scribd](https://www.scribd.com/) Document Preview Unblocker
 
