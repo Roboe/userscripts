@@ -29,7 +29,7 @@ Injects some CSS to unblock the clumsy protection Scribd puts for documents in t
 
 ### [IMSLP](https://imslp.org/) Subscription Page Skipper
 
-![IMSLP Subscription Page](img/imslp_subscription_page_skipper_screenshot.png)
+![IMSLP Subscription Page](imslp-subscription-skipper/screenshot.png)
 
 Redirects you to the requested download without waiting for 15 seconds. You can still visit the [subscription page](https://imslp.org/wiki/IMSLP:Subscriptions) to support the IMSLP project economically or explore [other ways to contribute](https://imslp.org/wiki/IMSLP:Contributor_Portal) (most of them don't require money!).
 
