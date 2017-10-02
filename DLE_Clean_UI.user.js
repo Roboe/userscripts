@@ -6,14 +6,14 @@
 // @homepageURL https://gitlab.com/Roboe/userscripts
 // @supportURL  https://gitlab.com/Roboe/userscripts/issues
 // @updateURL   https://gitlab.com/Roboe/userscripts/raw/master/DLE_Clean_UI.user.js
-// @icon        img/dle_icon.jpg
+// @icon        dle-clean-ui/icon@2x.jpg
 // @license     GPLv3; http://www.gnu.org/licenses/gpl.html
-// @version     1.2
+// @version     2.0
 // @include     http://dle.rae.es/*
 // @run-at      document-end
 // @grant       GM_addStyle
 // @grant       GM_getResourceText
-// @resource    dle_style DLE_Clean_UI.user.css
+// @resource    dle_style dle-clean-ui/style.user.css
 // ==/UserScript==
 
 GM_addStyle(GM_getResourceText('dle_style'));
