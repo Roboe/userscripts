@@ -6,14 +6,14 @@
 // @homepageURL https://gitlab.com/Roboe/userscripts
 // @supportURL  https://gitlab.com/Roboe/userscripts/issues
 // @updateURL   https://gitlab.com/Roboe/userscripts/raw/master/DLE_Expand_Abbreviations.user.js
-// @icon        img/dle_icon.jpg
+// @icon        dle-expand-abbreviations/icon@2x.jpg
 // @license     GPLv3; http://www.gnu.org/licenses/gpl.html
-// @version     1.0
+// @version     2.0
 // @include     http://dle.rae.es/*
 // @run-at      document-end
 // @grant       GM_addStyle
 // @grant       GM_getResourceText
-// @resource    dle_style DLE_Expand_Abbreviations.user.css
+// @resource    dle_style dle-expand-abbreviations/style.user.css
 // ==/UserScript==
 
 GM_addStyle(GM_getResourceText('dle_style'));

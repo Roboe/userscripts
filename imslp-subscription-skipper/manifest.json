@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "applications": {
+    "gecko": {
+      "id": "imslp-subscription-skipper@virgulilla.com"
+    }
+  },
+
+  "name": "IMSLP Subscription Page Skipper",
+  "version": "2.0",
+
+  "author": "Roberto M. F.",
+  "homepage_url": "https://gitlab.com/Roboe/userscripts",
+  "description": "Avoid waiting 15 seconds when downloading scores on IMSLP",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon@2x.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://imslp.org/wiki/Special:ImagefromIndex/*"],
+      "run_at": "document_end",
+      "js": ["script.js"]
+    }
+  ]
+}
