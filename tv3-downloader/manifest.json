@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+
+  "applications": {
+    "gecko": {
+      "id": "tv3-downloader@virgulilla.com"
+    }
+  },
+
+  "name": "TV3 descarrega de capítols",
+  "version": "1.0",
+
+  "author": "Roberto M. F.",
+  "homepage_url": "https://gitlab.com/Roboe/userscripts",
+  "description": "Descarrega capítols des de la pàgina de TV3 Alacarta",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon@2x.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.ccma.cat/tv3/alacarta/*/ultims-programes/*",
+        "*://www.ccma.cat/tv3/alacarta/*/*/video/*/*"
+      ],
+      "run_at": "document_end",
+      "js": ["tv3-downloader.js"]
+    }
+  ],
+  "permissions": [
+    "*://dinamics.ccma.cat/*"
+  ]
+}
