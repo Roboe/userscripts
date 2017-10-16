@@ -1,18 +1,19 @@
 {
   "manifest_version": 2,
 
+  "default_locale": "es",
   "applications": {
     "gecko": {
       "id": "dle-expand-abbreviations@virgulilla.com"
     }
   },
 
-  "name": "Expandir abreviaturas del DLE (antes DRAE)",
-  "version": "2.0",
+  "name": "__MSG_extensionName__",
+  "version": "2.1",
 
   "author": "Roberto M. F.",
   "homepage_url": "https://gitlab.com/Roboe/userscripts",
-  "description": "Reemplaza las abreviaturas de las acepciones del Diccionario de la Lengua Española (antes diccionario de la RAE) con su término completo",
+  "description": "__MSG_extensionDescription__",
   "icons": {
     "48": "icon.jpg",
     "96": "icon@2x.jpg"

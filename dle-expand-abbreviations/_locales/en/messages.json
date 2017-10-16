@@ -1,11 +1,11 @@
 {
   "extensionName": {
-    "message": "DLE (former DRAE) Clean UI",
+    "message": "DLE (former DRAE) Expand Abbreviations",
     "description": "Name of the extension."
   },
 
   "extensionDescription": {
-    "message": "Adjust sizes and remove visual elements to RAE's online Spanish dictionary. Having a cleaner and less distraction-prone design makes you focus on real content.",
+    "message": "Expand abbreviations and show full terms in RAE's online Spanish dictionary. Not having to decrypt random things makes definitions clearer.",
     "description": "Description of the extension."
   }
 }

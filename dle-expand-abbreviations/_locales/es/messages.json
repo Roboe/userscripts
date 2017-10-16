@@ -1,11 +1,11 @@
 {
   "extensionName": {
-    "message": "Interfaz simplificada para el DLE (antes DRAE)",
+    "message": "Expandir abreviaturas del DLE (antes DRAE)",
     "description": "Nombre de la extensión."
   },
 
   "extensionDescription": {
-    "message": "Ajusta y oculta elementos en la web del Diccionario de la Lengua Española (antes diccionario de la RAE) para una experiencia de diccionario sin distracciones",
+    "message": "Reemplaza las abreviaturas de las acepciones del Diccionario de la Lengua Española (antes diccionario de la RAE) con su término completo. Las definiciones quedan más explícitas cuando no se tienen que descifrar letras y siglas enrevesadas.",
     "description": "Descripción de la extensión."
   }
 }
