@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "DLE (former DRAE) Clean UI",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adjust sizes and remove visual elements to RAE's online Spanish dictionary. Having a cleaner and less distraction-prone design makes you focus on real content.",
+    "description": "Description of the extension."
+  }
+}

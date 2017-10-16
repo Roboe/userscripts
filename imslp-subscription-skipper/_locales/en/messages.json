@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "IMSLP Subscription Page Skipper",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Avoid waiting 15 seconds when downloading scores on IMSLP. You can still visit the subscription page and look for a variety of ways to keep the IMSLP project alive.",
+    "description": "Description of the extension."
+  }
+}

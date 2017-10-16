@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Interfaz simplificada para el DLE (antes DRAE)",
+    "description": "Nombre de la extensión."
+  },
+
+  "extensionDescription": {
+    "message": "Ajusta y oculta elementos en la web del Diccionario de la Lengua Española (antes diccionario de la RAE) para una experiencia de diccionario sin distracciones",
+    "description": "Descripción de la extensión."
+  }
+}

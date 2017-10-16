@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Omitir la página de suscripción de IMSLP",
+    "description": "Nombre de la extensión."
+  },
+
+  "extensionDescription": {
+    "message": "Evita esperar 15 segundos cuando descargas partituras de IMSLP. Puedes visitar la página de suscripción para consultar diferentes maneras de mantener con vida el proyecto.",
+    "description": "Descripción de la extensión."
+  }
+}
