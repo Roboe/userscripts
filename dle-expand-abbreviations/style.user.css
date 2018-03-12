@@ -36,3 +36,9 @@
 #a0 .n2 {
   color: #008000;
 }
+
+/* Fix "lema" margin in light version */
+
+#a0 > article[id] > header {
+	margin-left: 0.6em;
+}
