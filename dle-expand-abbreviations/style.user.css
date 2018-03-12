@@ -1,18 +1,18 @@
 /* Injected by webextension/userscript */
 
-#resultados abbr {
+#a0 abbr {
   font-size: 0;
   text-decoration: unset;
   cursor: unset;
 }
 
-#resultados abbr::after {
+#a0 abbr::after {
   content: attr(title);
   font-size: initial;
 }
 
 
-#resultados abbr + abbr::before {
+#a0 abbr + abbr::before {
   content: "· ";
   font-size: initial;
 }
