@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "default_locale": "en",
+  "applications": {
+    "gecko": {
+      "id": "fix-dark-theme-input-boxes@virgulilla.com"
+    }
+  },
+
+  "name": "__MSG_extensionName__",
+  "version": "1.0",
+
+  "author": "Roberto M. F.",
+  "homepage_url": "https://gitlab.com/Roboe/userscripts",
+  "description": "__MSG_extensionDescription__",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon@2x.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["style.user.css"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Fix Dark Theme Input Boxes",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Sets default background and text colors to inputs, selects and buttons when using a dark theme for the OS shell.",
+    "description": "Description of the extension."
+  }
+}

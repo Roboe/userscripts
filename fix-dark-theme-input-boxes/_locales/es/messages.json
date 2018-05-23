@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Arreglar cuadros de texto con tema oscuro",
+    "description": "Nombre de la extensión."
+  },
+
+  "extensionDescription": {
+    "message": "Pone el color de fondo y de texto por defecto a cuadros de texto, selectores y botones cuando se usa un tema oscuro para la interfaz del sistema operativo.",
+    "description": "Descripción de la extensión."
+  }
+}

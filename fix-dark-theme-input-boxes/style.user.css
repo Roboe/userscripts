@@ -1,0 +1,8 @@
+/* Injected by webextension/userscript */
+
+/* The glob selector has no specificity, thus a generic selector
+   "input", "select" or "button" in the page's CSS would still take precedence */
+* {
+  background-color: unset;
+  color: unset;
+}
