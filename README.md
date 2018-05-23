@@ -61,6 +61,16 @@ Firefox WebExtension | Userscript
 -------------------- | ----------
 [Install from AMO](https://addons.mozilla.org/firefox/addon/imslp-subscription-skipper/) | [Install (open raw)](IMSLP_Subscription_Page_Skipper.user.js)
 
+## Fix Dark Theme Input Boxes
+
+![Fix Dark Theme Input Boxes](fix-dark-theme-input-boxes/screenshot.png)
+
+When you are using a dark theme for the OS shell &mdash;like Adwaita-dark on a [GNU/Linux distro](https://www.getgnulinux.org/en/linux/) with the [GNOME desktop](https://www.gnome.org/)&mdash;, inputs, selectors and buttons background and text colors are inherited from the dark theme, which causes some texts to be illegible. This extension restores the default background and text colors to inputs, selects and buttons to fix this.
+
+Firefox WebExtension | Userscript
+-------------------- | ----------
+[Install from AMO](https://addons.mozilla.org/firefox/addon/fix-dark-theme-input-boxes/) | Unsupported
+
 
 ## Userscripts installation
 
@@ -87,4 +97,4 @@ These scripts have been tested with [Greasemonkey](https://addons.mozilla.org/fi
 
 ## License
 
-These webextensions and scripts are released under version 3 of the GNU General Public License (GPL v3). The full text of the license is available in the [LICENSE file](LICENSE). Besides, each webextension has a copy of the license file bundled in their folder.
+These webextensions and scripts are released either under version 3 of the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) (GPLv3) or the [Unlicense](https://unlicense.org/). The full text of the license is available in the [LICENSE file](LICENSE). Besides, each webextension has a copy of the license file bundled in their folder.
