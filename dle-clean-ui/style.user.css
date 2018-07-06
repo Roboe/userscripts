@@ -8,6 +8,10 @@ body > #idle {
     display: none;
 }
 
+body > #enclave {
+    display: none;
+}
+
 #drea23 {
     padding-top: 1.4em;
 }
