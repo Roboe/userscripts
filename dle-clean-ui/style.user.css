@@ -4,6 +4,10 @@
     height: 50px;
 }
 
+body > #idle {
+    display: none;
+}
+
 #drea23 {
     padding-top: 1.4em;
 }
