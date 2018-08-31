@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+
+  "applications": {
+    "gecko": {
+      "id": "fairphone-blue-heart@virgulilla.com"
+    }
+  },
+
+  "name": "Fairphone Forum Blue Heart",
+  "version": "1.0",
+
+  "author": "Roberto M. F.",
+  "homepage_url": "https://gitlab.com/Roboe/userscripts",
+  "description": "Replaces the red 'like' for a bluish one in the Fairphone Forum",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon@2x.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://forum.fairphone.com/*"],
+      "css": ["style.user.css"]
+    }
+  ]
+}
