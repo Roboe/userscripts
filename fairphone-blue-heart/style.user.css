@@ -6,6 +6,7 @@ nav.post-controls button.like:focus {
   background: #dceef7;
 }
 
-nav.post-controls button.has-like {
+nav.post-controls button.has-like,
+.topic-post nav.post-controls button.has-like {
   color: #2ca7df;
 }
