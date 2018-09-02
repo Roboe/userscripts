@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Fairphone Heart",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Replaces the red 'like' in the Fairphone Forum for a bluish one.",
+    "description": "Description of the extension."
+  }
+}
