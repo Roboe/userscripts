@@ -21,7 +21,10 @@
 
   "content_scripts": [
     {
-      "matches": ["*://imslp.org/wiki/Special:ImagefromIndex/*"],
+      "matches": [
+        "*://imslp.org/wiki/Special:ImagefromIndex/*",
+        "*://imslp.org/wiki/Special:IMSLPImageHandler/*"
+      ],
       "run_at": "document_end",
       "js": ["script.js"]
     }
