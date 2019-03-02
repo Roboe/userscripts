@@ -79,3 +79,7 @@ body.dle #main {
 .box {
     padding-bottom: 0 !important;
 }
+
+div[class^="app_gdpr--"] {
+    display: none;
+}
