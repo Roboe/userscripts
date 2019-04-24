@@ -1,12 +1,7 @@
 /* Injected by webextension/userscript */
 
-nav.post-controls button.like.d-hover,
-nav.post-controls button.like:focus {
-  color: #2ca7df;
-  background: #dceef7;
-}
-
-nav.post-controls button.has-like,
-.topic-post nav.post-controls button.has-like {
+nav.post-controls button.has-like .d-icon,
+nav.post-controls button.like.d-hover .d-icon,
+nav.post-controls .like-button:hover .d-icon {
   color: #2ca7df;
 }
