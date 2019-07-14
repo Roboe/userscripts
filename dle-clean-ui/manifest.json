@@ -21,8 +21,13 @@
 
   "content_scripts": [
     {
+      "exclude_matches": ["*://dle.rae.es/srv/*"],
       "matches": ["*://dle.rae.es/*"],
-      "css": ["style.user.css"]
+      "css": ["style-regular.user.css"]
+    },
+    {
+      "matches": ["*://dle.rae.es/srv/*"],
+      "css": ["style-srv.user.css"]
     }
   ]
 }
