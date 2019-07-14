@@ -16,4 +16,4 @@ Esta extensión es [software libre](https://www.gnu.org/philosophy/free-sw.es.ht
 Instalar | Enlace
 -------- | ------
 WebExtension para Firefox | https://addons.mozilla.org/firefox/addon/dle-clean-ui/
-Userscript | [Pulsar en Open RAW](../DLE_Clean_UI.user.js)
+Userscript | No soportado
