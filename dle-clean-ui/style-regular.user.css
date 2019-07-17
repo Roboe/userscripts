@@ -61,7 +61,7 @@ body.dle #main {
 
 #diccionario {
     margin: 0 auto;
-    width: unset;
+    width: 100%;
 }
 
 .dicc {
