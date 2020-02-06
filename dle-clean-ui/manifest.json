@@ -21,9 +21,9 @@
 
   "content_scripts": [
     {
-      "exclude_matches": ["*://dle.rae.es/srv/*"],
+      "exclude_matches": ["*://dle.rae.es/contenido/*"],
       "matches": ["*://dle.rae.es/*"],
-      "css": ["style-regular.user.css"]
+      "css": ["style.user.css"]
     }
   ]
 }
